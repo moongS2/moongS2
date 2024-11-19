@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=21&pause=1000&color=C860F7&width=435&lines=Level+Up+.+.+.+%F0%9F%AA%84" alt="Typing SVG" /></a>
 <li> 🎨 디자인에 진심인 프론트엔드 개발자</li>
 <li> 👁️ 사용자 입장에서 생각하는 개발자</li>
-<li> ✏️ 배움을 게을리하지 않는 개발자</li>
 
 <br>
 
@@ -30,8 +29,6 @@
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-</div>
-<div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
